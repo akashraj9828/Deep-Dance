@@ -49,3 +49,9 @@ Model| epoch | acc | loss | val_acc | val_loss |
 > Dance generated Using Deep Learning
 
 >![Result](https://github.com/akashraj9828/Deep-Dance/blob/master/result.gif?raw=true)
+
+
+# Credits 
+> Inspired by [carykh](https://github.com/carykh) 
+
+> check out his video here : [video](https://www.youtube.com/watch?v=Sc7RiNgHHaE)
